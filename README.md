@@ -1,3 +1,33 @@
+# AI-DD_03
+
+PART A — Research Questions
+1. What new improvements were introduced in Gemini 3.0?
+   
+A.Gemini 3.0 introduces better reasoning, faster response speed, stronger coding abilities, and improved memory. It can handle larger context, generate more accurate answers, and work better with multimodal inputs like images, audio, and video.
+
+2. How does Gemini 3.0 improve coding & automation workflows?
+
+Gemini 3.0 writes cleaner code, fixes bugs automatically, understands whole repositories, and completes multi-step tasks smoothly. Its new coding models (Pro, Flash) improve automation, debugging, and refactoring.
+
+3. How does Gemini 3.0 improve multimodal understanding?
+   
+Gemini 3.0 can process and understand text, images, audio, video, and documents together. It recognizes objects better, analyzes videos more accurately, and gives deeper reasoning across different media types.
+
+4. Name any two developer tools introduced with Gemini 3.0.
+
+Two tools introduced with Gemini 3.0 are:
+
+Gemini Code Assist
+
+Gemini API (v3)
+(Also acceptable: Gemini Flash, Gemini Pro, Gemini in Google AI Studio)
+
+
+
+
+
+
+
 # AI-DD_02
       *********1. Nine Pillars Understanding****************
 Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks
